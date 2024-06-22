@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: f9ab3270d99263646af521acbbfac4f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miss0001-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 900
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff98991851017cb4eb22beed6d3d7228
+      internalID: -278173562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 900
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d687a83bfdd1c49a593d30158d5354
+      internalID: -1330608435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 900
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341e1aa58a3f8674489bd56db6a63471
+      internalID: -2111894352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 900
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe8034e5620a04bb98d22ce165d7df
+      internalID: -972041900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 900
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6f0cc702de9448ac906f55a95fbec
+      internalID: -304100371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 900
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa2f3feb767fa344a7a52d11d9d9a74
+      internalID: -77829664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 900
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f831995f95a468b4bbbda769810f0a9a
+      internalID: 361952717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 900
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c40bb44f575bc0468f687f73370b5fb
+      internalID: 1330422863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 900
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77430fa013e6af3488da3b57c09fffe6
+      internalID: -1991399490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 900
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a43f008e2443d42baf48873ce965e8
+      internalID: 1190888473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 600
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed6f9c113587443b1b9fe514bc11af
+      internalID: 347575657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 600
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf7df1f316cf8947b41226b172030be
+      internalID: 1245967964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 600
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503de1ace19c63043a061f3e2345b64f
+      internalID: -1399343742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 600
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a18e5a8702ab6d419153f9917dda8a4
+      internalID: -1162592933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 600
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9eb3572fed5a64db88f903fb23ed13
+      internalID: 1356063697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 600
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b0fd624a7bdf04889db80a02d29043
+      internalID: 1484301069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 600
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484f5e2a5fdf89741a2ba39953c2266d
+      internalID: -732547511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 600
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b92c3f74349cb94da11be2f80e7e57f
+      internalID: 1084448013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 600
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dd7ff61d3698042a9931b41f200e29
+      internalID: 1995709290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 600
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d07e35a506cf74fbf686525f84e1db
+      internalID: -1531917330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 300
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05fd17d4e8409f4ab94d66a1bf26c1c
+      internalID: 2075051233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 300
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f665ec767699773458fb2533c96ac4a7
+      internalID: 281341473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 300
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d0c04a7f9176f4eb99de72382b306d
+      internalID: 969510787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 300
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27370f29761aa3a4b87581a7cf4393e6
+      internalID: 937476390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 300
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729be63ce6ca9594f8bc89ff26db373c
+      internalID: -2121599516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 300
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178e1a11a87420d4b81ad25fcbdc02cb
+      internalID: -1665120004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 300
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01195138db2d642ab7c4ab67af2289
+      internalID: 1040616623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 300
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83182e1f9fcf3204c846fd1be52f70d6
+      internalID: 59752947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 300
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff190528594c33248a5ae80182ee5ea3
+      internalID: 350004326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 300
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc516f47c8acd2843b7dd817921384a9
+      internalID: 1380776045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41da4ba27b679d479464c411f93c46f
+      internalID: 207564214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e16ee8393cdc04083a602e4d4f588d
+      internalID: 120787347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a9d10e83721b04cb00699983afe7c2
+      internalID: -535042185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 0
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb1c5fb47a06b9408b0f02c3c5ebd81
+      internalID: 958039965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miss0001-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 0
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6f7d87a57c77c43b9fa838e3493588
+      internalID: 622856129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      miss0001-sheet_0: -278173562
+      miss0001-sheet_1: -1330608435
+      miss0001-sheet_10: 347575657
+      miss0001-sheet_11: 1245967964
+      miss0001-sheet_12: -1399343742
+      miss0001-sheet_13: -1162592933
+      miss0001-sheet_14: 1356063697
+      miss0001-sheet_15: 1484301069
+      miss0001-sheet_16: -732547511
+      miss0001-sheet_17: 1084448013
+      miss0001-sheet_18: 1995709290
+      miss0001-sheet_19: -1531917330
+      miss0001-sheet_2: -2111894352
+      miss0001-sheet_20: 2075051233
+      miss0001-sheet_21: 281341473
+      miss0001-sheet_22: 969510787
+      miss0001-sheet_23: 937476390
+      miss0001-sheet_24: -2121599516
+      miss0001-sheet_25: -1665120004
+      miss0001-sheet_26: 1040616623
+      miss0001-sheet_27: 59752947
+      miss0001-sheet_28: 350004326
+      miss0001-sheet_29: 1380776045
+      miss0001-sheet_3: -972041900
+      miss0001-sheet_30: 207564214
+      miss0001-sheet_31: 120787347
+      miss0001-sheet_32: -535042185
+      miss0001-sheet_33: 958039965
+      miss0001-sheet_34: 622856129
+      miss0001-sheet_4: -304100371
+      miss0001-sheet_5: -77829664
+      miss0001-sheet_6: 361952717
+      miss0001-sheet_7: 1330422863
+      miss0001-sheet_8: -1991399490
+      miss0001-sheet_9: 1190888473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

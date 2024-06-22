@@ -1,0 +1,1830 @@
+fileFormatVersion: 2
+guid: 417ee0e81bb32374182794e811a77448
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AWEBO4_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2415.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae640da0b8d9234b8e680c738ddcf55
+      internalID: 2082814608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2415.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d58d17cffc4049881ddc86adcd187
+      internalID: -1307823653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2415.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c903a9103bbc5ce4b87fc991b27e9a43
+      internalID: 1857277907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_3
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2415.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63608023e771ab4aa71ba4e9c23922b
+      internalID: 765039787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_4
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2415.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc36472a561acc04cba417346c0a2c70
+      internalID: 1726728422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_5
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2415.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d1dcae7165e74ebd5b032456e9877
+      internalID: 2083495460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_6
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 2415.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b454a46f6d35145a9c9f5658e3ec6f
+      internalID: -697451164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_7
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2415.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ddc3c07a7efde4292238cbf42d5cff
+      internalID: 807192797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_8
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2415.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a6f1d553e3e93409889bc4c149b306
+      internalID: -479000598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2114.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e1c2b070662e49b91bcb1f2d5a575
+      internalID: 1829476431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2114.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc00701cf8a0bb14481c651a781d3d7a
+      internalID: 357273919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2114.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d64249f46b30064d999baa91b4325aa
+      internalID: -1644923647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_12
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2114.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92f8b9bd9697f64ea2c0d2ebbd93d51
+      internalID: -1538504609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_13
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2114.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851bf3a5314c8974cb42d982c38dfe95
+      internalID: 1814529675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_14
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2114.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e710ce8b9a28cd41b684d8b6f64ea56
+      internalID: 384400749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_15
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 2114.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b1561d36271964980b0921e2e7c55e
+      internalID: 1733450978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_16
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2114.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065d1e059da2ec34f913fa9b1a0776ba
+      internalID: -2109893357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_17
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2114.111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8785296387ae7114ba7048c797177f75
+      internalID: -530288074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1813.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf268990e2b8f24fab52cd8bfa7f50f
+      internalID: -1412502068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1813.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddbe9a4bcfd24c43a967a16a9013505
+      internalID: -135461215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_20
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1813.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e067d03b0bc1de479ebfb4d2ddef135
+      internalID: 383132393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_21
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1813.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a65360a28144d49a87b3b31e35374b
+      internalID: 583906670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_22
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1813.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67efbed52d4a4148a624488d4a05893
+      internalID: 662353071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_23
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1813.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e61e2b3470967448a3ed2e769635e89
+      internalID: -483998236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_24
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1813.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa5dc1bebafbc148acb0a5cca275bac
+      internalID: 602043775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_25
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1813.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7b1bacf2d09cc46b89e267f9f98bce
+      internalID: -1882745868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_26
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1813.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291b09f72e701364e85ccf570bac1ca8
+      internalID: 379628446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1512.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd82d1311f1fb543a6272bbe6a12191
+      internalID: -833982357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_28
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1512.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baffe5062cc546041b3e58a6b0292537
+      internalID: -973029165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_29
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1512.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866c21d910644e243a292a21100ba27b
+      internalID: -1567253345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_30
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1512.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a9ae9940f72048a48b61c89e01a71
+      internalID: 1351630892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_31
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1512.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ed60ae043fa2a40b1c0daae84c9f31
+      internalID: 1117031132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_32
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1512.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04106895ec1f3b4cbe0e7db6e08bff9
+      internalID: -1689108090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_33
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1512.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac89f73d3224ca346aa7dd74cc034259
+      internalID: 727454979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_34
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1512.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b4599e9ba0a884785f3a327c55e10b
+      internalID: 332880458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_35
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1512.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e0280922eb8b04cb5d39c3b39c632f
+      internalID: 335448567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1211.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10f93ef5d14e804b913d0de6d085ef6
+      internalID: 928359443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1211.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0009068929bdaf947b8e4025b486551e
+      internalID: -1577913358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_38
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1211.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22b89dd2a7008442b862ce942029074
+      internalID: 2087903099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_39
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1211.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d9bddc258f1ef418cde864a5e1570c
+      internalID: -115648972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_40
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1211.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021220bae0d6d3d43a3e029a0bd096b3
+      internalID: -1581490751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_41
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1211.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86689644a294b9749ac05030a293c23e
+      internalID: 298110109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_42
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1211.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45bf6ce93c7f164eb1a6f562d264b77
+      internalID: -1711400956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_43
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1211.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b888646289494baa83783a0a94145
+      internalID: 1177308523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_44
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1211.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d07a9814e235c4fa47fd3b30619c77
+      internalID: -875309751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 910.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37288a1c10f6a584e8f20d3620e163d1
+      internalID: 241260434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_46
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 910.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df40d164670454e805a057e1cbdb40
+      internalID: 1166355009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_47
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 910.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b1429f50260fd4aa14e65f4f15d4dc
+      internalID: -1888680717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_48
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 910.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1056492b6e4be4ebfe275bfaeb4db0
+      internalID: -1311285946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_49
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 910.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27af5ec53c10b34c93f85618c8d91ff
+      internalID: -1142769774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_50
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 910.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd626f1c9f0a7a4392ce89ab23e3024
+      internalID: 34693528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_51
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 910.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf02603dc044ecc41b954f8799bfe420
+      internalID: -1851532809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_52
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 910.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b43761334bcae84a9cd316c43b2c9db
+      internalID: -731883821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_53
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 910.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48039524bf6146f4f8cff323e1f3baf7
+      internalID: -1005728382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 609.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318a3fe318c054439af09cf7bb92613
+      internalID: 1280450075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_55
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 609.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89240e47406e60c419e4010f7202e7e7
+      internalID: -1645305634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_56
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 609.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886b6f365a4893d44abfc2dcc1e99c62
+      internalID: -1654676491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_57
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 609.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a722980ac3cd4bad85e260d67f581
+      internalID: 1271826901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_58
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 609.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ab3635e2fa202498077d04a9e4d828
+      internalID: 1520978030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_59
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 609.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6237b380064861499e825dd7560af5c
+      internalID: -502067060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_60
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 609.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39c5486fd9c05b4b933b7c0058900b5
+      internalID: 891490753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_61
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 609.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd09b7a3b3c82f41b920b4dc8201f5c
+      internalID: -1516239766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_62
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 609.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd695f047f2034042873ace7d4d0fcd0
+      internalID: 149984531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 308.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35d0f3a34802004e9fcb514e9a5d9b9
+      internalID: 1735928194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_64
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 308.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8573b86f9cadba4b8e7e0ab21012468
+      internalID: -764505565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_65
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 308.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a58b0a4cc1cc1844ac2bea4f2a4a77c
+      internalID: 1886476119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_66
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 308.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c22def647e42840a295ff72e33291d
+      internalID: 1649361702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_67
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 308.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9131dc334c5ff3c4bb604dd91a3d44fa
+      internalID: -1033894625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_68
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 308.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99b750a143b1ee40b2e0551da0195cb
+      internalID: -1592940926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_69
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 308.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8acc9984246981438a6a731fd88f7e1
+      internalID: -687921017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_70
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 308.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c96e71c8bfaf0449310674735764eb
+      internalID: -1304773178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_71
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 308.1111
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7b734dbbef93a4397b6012d4d7635d
+      internalID: 1014052976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7.1111145
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c40f0cbb885c5047a11f83f0c4d22ef
+      internalID: -1932301536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_73
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 7.1111145
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaa6425dcf74b8439a0bc482f8e6a43
+      internalID: -94263278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_74
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 7.1111145
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21030a592d630e41a009eb5b3f9b2d4
+      internalID: 1433534070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_75
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 7.1111145
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a080315e3020b614ea7fecb29cc4c516
+      internalID: -1553187314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_76
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 7.1111145
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89acb3fee68c94e41b945585800a3312
+      internalID: -323703509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWEBO4_77
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 7.1111145
+        width: 300.8889
+        height: 301.8889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adae0e693c17b644a697d76f0b47dd3
+      internalID: -1965260369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AWEBO4_0: 2082814608
+      AWEBO4_1: -1307823653
+      AWEBO4_10: 357273919
+      AWEBO4_11: -1644923647
+      AWEBO4_12: -1538504609
+      AWEBO4_13: 1814529675
+      AWEBO4_14: 384400749
+      AWEBO4_15: 1733450978
+      AWEBO4_16: -2109893357
+      AWEBO4_17: -530288074
+      AWEBO4_18: -1412502068
+      AWEBO4_19: -135461215
+      AWEBO4_2: 1857277907
+      AWEBO4_20: 383132393
+      AWEBO4_21: 583906670
+      AWEBO4_22: 662353071
+      AWEBO4_23: -483998236
+      AWEBO4_24: 602043775
+      AWEBO4_25: -1882745868
+      AWEBO4_26: 379628446
+      AWEBO4_27: -833982357
+      AWEBO4_28: -973029165
+      AWEBO4_29: -1567253345
+      AWEBO4_3: 765039787
+      AWEBO4_30: 1351630892
+      AWEBO4_31: 1117031132
+      AWEBO4_32: -1689108090
+      AWEBO4_33: 727454979
+      AWEBO4_34: 332880458
+      AWEBO4_35: 335448567
+      AWEBO4_36: 928359443
+      AWEBO4_37: -1577913358
+      AWEBO4_38: 2087903099
+      AWEBO4_39: -115648972
+      AWEBO4_4: 1726728422
+      AWEBO4_40: -1581490751
+      AWEBO4_41: 298110109
+      AWEBO4_42: -1711400956
+      AWEBO4_43: 1177308523
+      AWEBO4_44: -875309751
+      AWEBO4_45: 241260434
+      AWEBO4_46: 1166355009
+      AWEBO4_47: -1888680717
+      AWEBO4_48: -1311285946
+      AWEBO4_49: -1142769774
+      AWEBO4_5: 2083495460
+      AWEBO4_50: 34693528
+      AWEBO4_51: -1851532809
+      AWEBO4_52: -731883821
+      AWEBO4_53: -1005728382
+      AWEBO4_54: 1280450075
+      AWEBO4_55: -1645305634
+      AWEBO4_56: -1654676491
+      AWEBO4_57: 1271826901
+      AWEBO4_58: 1520978030
+      AWEBO4_59: -502067060
+      AWEBO4_6: -697451164
+      AWEBO4_60: 891490753
+      AWEBO4_61: -1516239766
+      AWEBO4_62: 149984531
+      AWEBO4_63: 1735928194
+      AWEBO4_64: -764505565
+      AWEBO4_65: 1886476119
+      AWEBO4_66: 1649361702
+      AWEBO4_67: -1033894625
+      AWEBO4_68: -1592940926
+      AWEBO4_69: -687921017
+      AWEBO4_7: 807192797
+      AWEBO4_70: -1304773178
+      AWEBO4_71: 1014052976
+      AWEBO4_72: -1932301536
+      AWEBO4_73: -94263278
+      AWEBO4_74: 1433534070
+      AWEBO4_75: -1553187314
+      AWEBO4_76: -323703509
+      AWEBO4_77: -1965260369
+      AWEBO4_8: -479000598
+      AWEBO4_9: 1829476431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

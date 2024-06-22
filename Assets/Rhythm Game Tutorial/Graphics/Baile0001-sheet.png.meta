@@ -1,0 +1,1676 @@
+fileFormatVersion: 2
+guid: 890cdb3bd5051414a9490c67656b876e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baile0001-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2504
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1757eb5572418ad47b68b0090b8b20c4
+      internalID: 1806015889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2504
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55431c07cb4f7ae438b69fb65eb3420c
+      internalID: -779264281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2504
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f254390b2902e489ec6fa3291db287
+      internalID: -752090252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2504
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5de283c9f9baf45bd8fe95c0375236
+      internalID: -980897936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2504
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305a5be99aedb468e52fc1c567533f
+      internalID: -994039602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 2504
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc37e4e8175f62f40b5d8777c3834ae9
+      internalID: -330695390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 2504
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed76fad7d05df943af64d0a841fb66f
+      internalID: -1577179588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 2504
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f184590f81ac84eb4586387a2c15e4
+      internalID: -166342011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2191
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856c3e5c683fe164ea8a875eb7282d70
+      internalID: -492925997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2191
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64753e774fb0812428386030c8b34152
+      internalID: -1206990468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2191
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e8dca2358071a4f8e433367628df86
+      internalID: -286956446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2191
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ee2be7c65edac4f9d3c1bff355bb07
+      internalID: -1907950591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2191
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb9cadfd5f5eb949b94b2d43ac7f2f1
+      internalID: -545836755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 2191
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a0174fb0bea9c4ab966803b5a51d51
+      internalID: 973265265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 2191
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ec4c4996b6044b86422f1aeeda95f
+      internalID: 1391711533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 2191
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2d40e47157bea49869f260fe6f98d6
+      internalID: 516917896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1878
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7acdf29ce74c04c872feefb9baa8ac
+      internalID: 1213502658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1878
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67afe504d1eadfd45b391ee2f13a9b15
+      internalID: -1648964075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1878
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1da96e6f80f82447b07898c125975ac
+      internalID: 1709660436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1878
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a156a741b27f04b88f98905a6cc31d
+      internalID: 496248329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1878
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b2fc997012e184da3271f170b05eba
+      internalID: 666690270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1878
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cc080f98279eb4fb52c3d9d4dcab43
+      internalID: 1318852588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1878
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b07b2d2842cab04780e9e5d1b2dcf88
+      internalID: -958572710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 1878
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aad06acc5738204e8e06698aa8245f0
+      internalID: 1940470461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1565
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e9d5e09051a3a4db85b85308d05b57
+      internalID: 576190066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1565
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e606a20b7b53a4db879755d68fe3c0
+      internalID: 1730507396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1565
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5ccb2f880d0524ea760d8e14cba883
+      internalID: -624535826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1565
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96438778d7ced494c957b04ec4938ba3
+      internalID: 1946840904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1565
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bc2f4269be1164fa083a68e97e5b33
+      internalID: -1931462933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1565
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd188c691db85a4eb6372707ae8994f
+      internalID: -1124966631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1565
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a840cddca6f7d74caaf6213b624222a
+      internalID: 623314410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 1565
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7917bb60dfddd2e41aeeae8bfd889297
+      internalID: -693390548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1252
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825c6ba0efc9b4d4c9b21a94e9f15829
+      internalID: -2070733084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1252
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaefeb076ff43cd479512cb6a3bfec1c
+      internalID: -2062408079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1252
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3841b040a05aa514b90dabcb33ad97e8
+      internalID: 473616409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1252
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af31424e56c73443a58f5b897cc90f4
+      internalID: 1059763159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1252
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1027296df33b074f8c9aff2e2b521a9
+      internalID: -1331553839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1252
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef0740a087974e4b8a01e5786119d6b
+      internalID: -592449785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1252
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd638db96a05124d9b2efb28288ff7c
+      internalID: -969064134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 1252
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d82a0b513f41d840afe4dff45141136
+      internalID: -2055869145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 939
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87620850335e4284fb00efdede65691b
+      internalID: -1745153731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 939
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e22e165d9c952499bf6acd620d9fd2
+      internalID: -843906953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 939
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d6086eca216d44d9e913d771f76d8c
+      internalID: -1624128084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 939
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2187b5e7824530040995f06cff766785
+      internalID: 1362526013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 939
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5aa98f597bc9049ad2f551b9389dbe
+      internalID: 559005578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 939
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86c0a7c38c07ca4b8eedc29960a182c
+      internalID: -1050536879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 939
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989bfbef135185847ada5c86f2bee487
+      internalID: 791856152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 939
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b6cc54c236b074abb727c8da6254e1
+      internalID: 1757298462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 626
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c8d8e8314903a48805d15e242cda6c
+      internalID: 849069005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 626
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff8a031870518d4f86d8525bd2b0492
+      internalID: 1931945823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 626
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a4d948cbf95543af6f32de7221a3d
+      internalID: 105835785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 626
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf652aa7cefbb4699ed70b57bd84cd
+      internalID: 697519874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 626
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c16d376800098408b0735021d5c9f6
+      internalID: -1143912171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 626
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e964596abdfe7ff47999b871e4c6feda
+      internalID: -184681960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 626
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209f0091be605c74fbc9fae7de4a113c
+      internalID: 1056131831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 626
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70686b61d9a32bd43b7b299e2676f021
+      internalID: -1960076037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 313
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b768302e1e3d1ac4c9aa18272503e64f
+      internalID: 633844160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 313
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b396703af3e42499b5416ae00b410d
+      internalID: 1336147861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 313
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b435b59fa04a64c9f02eb42229292f
+      internalID: 1863278384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 313
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6789a6e0a563563458f225326d23fa19
+      internalID: -1925022773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 313
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ff7b713eb981f43bb540646564fabd
+      internalID: 1374040608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 313
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b644b0b21075a4989780fa6915fff2
+      internalID: -264288414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 313
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a5a253578c0fd4b8f2c51a04d159ee
+      internalID: 938445962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 313
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656e8d7f81d12bc4da9289d2512240d1
+      internalID: 1060276050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480ad35a24315e64e89ac9085793d623
+      internalID: -1477820347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f186bac2a622a4c82f1907eaa52828
+      internalID: -641200912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31bf533818ef6d4dbd83d924fa0ae03
+      internalID: -1126256994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 0
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798cacdd119026042ab60585804228eb
+      internalID: 1896093464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 0
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5185ffc80f4736d4eab8c3071668232e
+      internalID: -1186237178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 0
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2e980dfa614214e9de16c3ed793bd4
+      internalID: -44579905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baile0001-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 0
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010e14b4cb030a445941b186772f34ba
+      internalID: -1422493150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Baile0001-sheet_0: 1806015889
+      Baile0001-sheet_1: -779264281
+      Baile0001-sheet_10: -286956446
+      Baile0001-sheet_11: -1907950591
+      Baile0001-sheet_12: -545836755
+      Baile0001-sheet_13: 973265265
+      Baile0001-sheet_14: 1391711533
+      Baile0001-sheet_15: 516917896
+      Baile0001-sheet_16: 1213502658
+      Baile0001-sheet_17: -1648964075
+      Baile0001-sheet_18: 1709660436
+      Baile0001-sheet_19: 496248329
+      Baile0001-sheet_2: -752090252
+      Baile0001-sheet_20: 666690270
+      Baile0001-sheet_21: 1318852588
+      Baile0001-sheet_22: -958572710
+      Baile0001-sheet_23: 1940470461
+      Baile0001-sheet_24: 576190066
+      Baile0001-sheet_25: 1730507396
+      Baile0001-sheet_26: -624535826
+      Baile0001-sheet_27: 1946840904
+      Baile0001-sheet_28: -1931462933
+      Baile0001-sheet_29: -1124966631
+      Baile0001-sheet_3: -980897936
+      Baile0001-sheet_30: 623314410
+      Baile0001-sheet_31: -693390548
+      Baile0001-sheet_32: -2070733084
+      Baile0001-sheet_33: -2062408079
+      Baile0001-sheet_34: 473616409
+      Baile0001-sheet_35: 1059763159
+      Baile0001-sheet_36: -1331553839
+      Baile0001-sheet_37: -592449785
+      Baile0001-sheet_38: -969064134
+      Baile0001-sheet_39: -2055869145
+      Baile0001-sheet_4: -994039602
+      Baile0001-sheet_40: -1745153731
+      Baile0001-sheet_41: -843906953
+      Baile0001-sheet_42: -1624128084
+      Baile0001-sheet_43: 1362526013
+      Baile0001-sheet_44: 559005578
+      Baile0001-sheet_45: -1050536879
+      Baile0001-sheet_46: 791856152
+      Baile0001-sheet_47: 1757298462
+      Baile0001-sheet_48: 849069005
+      Baile0001-sheet_49: 1931945823
+      Baile0001-sheet_5: -330695390
+      Baile0001-sheet_50: 105835785
+      Baile0001-sheet_51: 697519874
+      Baile0001-sheet_52: -1143912171
+      Baile0001-sheet_53: -184681960
+      Baile0001-sheet_54: 1056131831
+      Baile0001-sheet_55: -1960076037
+      Baile0001-sheet_56: 633844160
+      Baile0001-sheet_57: 1336147861
+      Baile0001-sheet_58: 1863278384
+      Baile0001-sheet_59: -1925022773
+      Baile0001-sheet_6: -1577179588
+      Baile0001-sheet_60: 1374040608
+      Baile0001-sheet_61: -264288414
+      Baile0001-sheet_62: 938445962
+      Baile0001-sheet_63: 1060276050
+      Baile0001-sheet_64: -1477820347
+      Baile0001-sheet_65: -641200912
+      Baile0001-sheet_66: -1126256994
+      Baile0001-sheet_67: 1896093464
+      Baile0001-sheet_68: -1186237178
+      Baile0001-sheet_69: -44579905
+      Baile0001-sheet_7: -166342011
+      Baile0001-sheet_70: -1422493150
+      Baile0001-sheet_8: -492925997
+      Baile0001-sheet_9: -1206990468
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
