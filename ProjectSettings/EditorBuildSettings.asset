@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
+    path: Assets/Scenes/main.unity
+    guid: d879a31be2d71d04ea0e001bb71bf06d
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFA.unity"
+    guid: 737fc8b226e42a141a0a56dfb5135c2d
+  - enabled: 1
+    path: Assets/Scenes/MIKUFIESTA.unity
+    guid: addca5f94a3472a4e9aeabd809fa1c97
   m_configObjects: {}
